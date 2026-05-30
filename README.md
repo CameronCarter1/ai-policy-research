@@ -30,7 +30,7 @@ sensitive data handling, HIPAA awareness, and misuse resistance.
 
 ## Topics Covered
 - AI governance & policy frameworks
-- Responsible AI standards (Anthropic RSP, EU AI Act, IBM AI Fairness 360)
+- Responsible AI standards
 - Ethical AI evaluation methodology
 - Bias detection in clinical AI systems
 - HIPAA compliance & sensitive data handling
